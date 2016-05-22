@@ -1,0 +1,44 @@
+body {
+	background-color: ;
+	font-family: 'Lobster', cursive;
+	margin: 0px;
+}
+
+
+h2,h3,h4 {font-family: 'Indie Flower', cursive;
+	text-align: center;
+	}
+nav {
+	width: 100%;
+	text-align: center;
+	/*height: 40px;*/
+	background-color: green;
+	background-image: src: http://www.valentinospizzaandsportsbar.com/wp-content/uploads/2013/10/pizza-15.jpg
+	}
+	 
+h3 
+{body { background-color: #ffffc9 }
+a:link { color: blue } /* unvisited links */
+a:visited { color: purple } /* visited links */
+a:hover { font-weight: bold } /* user hovers */
+a:active { color: lime } /* active links */ 
+
+.container.header {text-align: center}
+
+}
+
+h4 {
+	font-size: 100px;
+	margin: 0px;
+}
+/*These are ways you can target a class,ID, and Heading. I can use any name i want.*/
+.h4Class {
+	color: blue;
+}
+
+#h1Id {
+	font-size: 20px;
+}
+.dropdown {
+	height: 100px;
+}
